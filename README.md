@@ -1,4 +1,4 @@
 # maanyanew
 This is my first git repository
 <br>
-Author:Maanya
+Author:Maanya Kharbanda
